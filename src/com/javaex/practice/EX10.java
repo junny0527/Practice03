@@ -16,10 +16,11 @@ public class EX10 {
 
 			num = input.nextInt();
 
-			if (i == 0)
+			if (i == 0) {
 				big = num;
-			else if (num > big)
+			} else if (num > big) {
 				big = num;
+			}
 		}
 
 		System.out.println("최대는" + big + "입니다.");
