@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class EX07 {
 
 	public static void main(String[] args) {
-Scanner input = new Scanner(System.in);
+		Scanner input = new Scanner(System.in);
 		
 		System.out.println("숫자를 입력하세요");
 		int n = input.nextInt(); //입력한 숫자
