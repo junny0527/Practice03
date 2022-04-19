@@ -20,7 +20,7 @@ public class EX10 {
 			else if(num > big)  big = num;
 		}
 		
-		System.out.println("최대은 " + big + "입니다.");
+		System.out.println("최대는" + big + "입니다.");
 		input.close();
 
 	}
